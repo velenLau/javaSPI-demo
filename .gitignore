@@ -1,0 +1,44 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# IntelliJ project files
+.target/
+.logs/
+*/logs/
+*/*/logs/
+*/target/
+bin/
+
+# maven ignore
+target/
+*.war
+*.zip
+*.tar
+*.tar.gz
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system ignore
+.DS_Store
+Thumbs.db
+logs/
+.idea/.name
+.idea/misc.xml
+.idea/vcs.xml
+.idea/workspace.xml
+src/test/
